@@ -1,5 +1,9 @@
+html {
+	font-family: 'Lato','Helvetica', 'Arial', sans-serif;
+}
+
 #top {
-	/* font-family: 'Lato','Helvetica', 'Arial', sans-serif; */
+	font-family: 'Lato','Helvetica', 'Arial', sans-serif;
 	background-color: #dedede;
 	padding: 0 180px 0 200px;
 	font-size: 14px;
